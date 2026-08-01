@@ -72,27 +72,28 @@ IPL-Data-Analysis/
 ---
 
 ## Batting Performance
-![Batting Performance](docs/dashboard/Batting_Performance.png)
+![Batting Performance](docs/docs/dashboard/Batting_Performance.png)
 
 ---
 
 ## Bowling Performance
-![Bowling Performance](docs/dashboard/Bowling_Performance.png)
+![Bowling Performance](docs/docs/dashboard/Bowling_Performance.png)
 
 ---
 
 ## Team Performance
-![Team Performance](docs/dashboard/Team_Performance.png)
+![Team Performance](docs/docs/dashboard/Team_Performance.png)
 
 ---
 
 ## Match Analysis
-![Match Analysis](docs/dashboard/Match_Analysis.png)
+![Match Analysis](docs/docs/dashboard/Match_Analysis.png)
 
 ---
 
 ## Player Statistics
-![Player Statistics](docs/dashboard/Player_Statistics.png)
+![Player Statistics](docs/docs/dashboard/Player_Statistics.png)
+
 ---
 
 # 🔍 Key Insights
