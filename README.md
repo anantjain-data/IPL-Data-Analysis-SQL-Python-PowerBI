@@ -54,14 +54,13 @@ IPL-Data-Analysis/
 
 # 📊 Dashboard Features
 
-- Executive Overview
-- Batting Performance
-- Bowling Performance
-- Team Performance
-- Match Analysis
-- Player Statistics
-- Venue Analysis
-- Season Analysis
+- 📊 Executive Overview Dashboard
+- 🏏 Batting Performance Analysis
+- 🎯 Bowling Performance Analysis
+- 👥 Team Performance Dashboard
+- 📈 Match & Venue Insights
+- 👤 Player Statistics
+- 📅 Season-wise Analysis
 
 ---
 
