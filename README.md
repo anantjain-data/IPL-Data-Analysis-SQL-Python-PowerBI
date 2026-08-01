@@ -68,7 +68,7 @@ IPL-Data-Analysis/
 # 📈 Dashboard Preview
 
 ## Executive Overview
-![Executive Overview](docs/dashboard/01_Executive_Overview.png)
+![Executive_Overview](docs/dashboard/01_Executive_Overview.png)
 
 ---
 
