@@ -67,6 +67,33 @@ IPL-Data-Analysis/
 
 # 📈 Dashboard Preview
 
+## Executive Overview
+![Executive Overview](docs/dashboard/01_Executive_Overview.png)
+
+---
+
+## Batting Performance
+![Batting Performance](docs/dashboard/02_Batting_Performance.png)
+
+---
+
+## Bowling Performance
+![Bowling Performance](docs/dashboard/04_Bowling_Performance.png)
+
+---
+
+## Team Performance
+![Team Performance](docs/dashboard/06_Team_Performance.png)
+
+---
+
+## Match Analysis
+![Match Analysis](docs/dashboard/09_Match_Analysis.png)
+
+---
+
+## Player Statistics
+![Player Statistics](docs/dashboard/10_Player_Statistics.png)
 ---
 
 # 🔍 Key Insights
